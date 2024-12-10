@@ -33,7 +33,6 @@ public class StringCheck {
             System.out.println("Hello");
         }
 
-        // equalIgnoreCase
 
     }
 }
